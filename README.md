@@ -4,7 +4,8 @@ Primeiro projeto de Banco de Dados 1
 O Objetivo é desenvolver um sistema de gerenciamento de biblioteca utilizando o Modelo Entidade-Relacionamento (MER).
 
 Sistema de Gerenciamento de Biblioteca
-Aluno: Matheus Garcia da Silva.
+
+# Aluno: Matheus Garcia da Silva.
 
 As entidades principais escolhidas foram: Livro, Autor, Usuário (Cliente), Empréstimo e Funcionário.
 
